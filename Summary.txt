@@ -1,0 +1,13 @@
+# Manager Summary: Superstore Sales Analysis
+
+## Purpose
+This analysis reviewed cleaned Superstore sales data to identify monthly sales patterns, profitable products, and areas with low profit margins.
+
+## Key Findings
+1. **December 2025** had the highest monthly sales, at approximately **$98,962**.
+2. **Copiers Product 12** generated the highest total profit, approximately **$32,700**.
+3. **Furniture** had a negative profit margin of **−4.36%**. Among regions, the **East** had the lowest margin (**6.56%**), while the **South** had the highest (**10.93%**).
+
+## Recommendations
+1. Review Furniture pricing, discounts, and product costs to identify why the category is losing money; also investigate the East region’s lower margin.
+2. Maintain availability of high-profit products such as Copiers Product 12, and use the December sales peak to help plan future inventory and promotions.
